@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="freddyScare.png" width="3080" height="2820">
+  <SubTexture name="Scare0001" x="1" y="1" width="768" height="128" rotated="true"  frameX="-896" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0002" x="771" y="1" width="768" height="180" rotated="true"  frameX="-844" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0003" x="1541" y="1" width="768" height="326" rotated="true"  frameX="-698" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0004" x="2311" y="1" width="768" height="508" rotated="true"  frameX="-516" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0005" x="1" y="131" width="768" height="745" rotated="true"  frameX="-279" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0006" x="771" y="329"  width="937" height="768" frameX="-87" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0007" x="1710" y="511"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0008" x="1" y="1099"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0009" x="1027" y="1281"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0010" x="2053" y="1281"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0011" x="1" y="1869"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0012" x="1027" y="2051"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0013" x="2053" y="2051"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

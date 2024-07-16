@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="mangleScare.png" width="2862" height="2515">
+  <SubTexture name="Scare0001" x="1" y="1"  width="376" height="256" frameX="-447" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0002" x="379" y="1"  width="380" height="266" frameX="-441" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0003" x="761" y="1"  width="387" height="286" frameX="-429" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0004" x="1150" y="1"  width="392" height="307" frameX="-417" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0005" x="1544" y="1"  width="414" height="326" frameX="-409" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0006" x="1960" y="1"  width="489" height="341" frameX="-338" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0007" x="2451" y="1" width="373" height="529" rotated="true"  frameX="-309" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0008" x="1" y="269"  width="601" height="424" frameX="-261" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0009" x="604" y="310"  width="717" height="481" frameX="-187" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0010" x="1323" y="344"  width="887" height="533" frameX="-78" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0011" x="1" y="793"  width="1024" height="586" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0012" x="2212" y="532" width="649" height="956" rotated="true"  frameX="-68" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0013" x="1027" y="879"  width="995" height="720" frameX="-29" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0014" x="1" y="1381"  width="955" height="768" frameX="-69" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0015" x="958" y="1601"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0016" x="2024" y="1490" width="768" height="1024" rotated="true"  frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

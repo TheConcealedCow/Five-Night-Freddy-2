@@ -1,0 +1,8 @@
+{
+	"name": "Cinco Noches con Alfredo",
+	"description": "Yar Har Har go Brrr",
+	"restart": false,
+	"runsGlobally": false,
+	"color": [255, 255, 255],
+	"discordRPC": null
+}

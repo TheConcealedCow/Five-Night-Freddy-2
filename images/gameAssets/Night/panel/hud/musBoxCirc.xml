@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="musBoxCirc.png" width="280" height="168">
+  <SubTexture name="Circ0001" x="0" y="0"  width="1" height="1" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0002" x="1" y="1"  width="4" height="28" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0003" x="7" y="1"  width="12" height="28" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0004" x="21" y="1"  width="19" height="28" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0005" x="42" y="1"  width="24" height="28" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0006" x="68" y="1"  width="27" height="28" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0007" x="97" y="1"  width="28" height="29" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0008" x="127" y="1"  width="28" height="37" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0009" x="157" y="1"  width="28" height="44" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0010" x="187" y="1"  width="28" height="50" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0011" x="217" y="1"  width="28" height="53" frameX="-26" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0012" x="247" y="1"  width="29" height="54" frameX="-25" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0013" x="1" y="31"  width="37" height="54" frameX="-17" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0014" x="40" y="31"  width="44" height="54" frameX="-10" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0015" x="86" y="40"  width="49" height="54" frameX="-5" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0016" x="137" y="53"  width="53" height="54" frameX="-1" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0017" x="192" y="57"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0018" x="1" y="87"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0019" x="57" y="96"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0020" x="113" y="109"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0021" x="169" y="113"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+  <SubTexture name="Circ0022" x="225" y="113"  width="54" height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+</TextureAtlas>

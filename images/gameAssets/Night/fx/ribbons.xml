@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ribbons.png" width="1137" height="395">
+  <SubTexture name="Ribbons0013" x="1" y="1"  width="74" height="380" frameX="-21" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0012" x="77" y="1"  width="74" height="381" frameX="-21" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0014" x="153" y="1"  width="72" height="381" frameX="-22" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0011" x="227" y="1"  width="75" height="382" frameX="-19" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0015" x="304" y="1"  width="72" height="383" frameX="-22" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0010" x="378" y="1"  width="75" height="384" frameX="-18" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0001" x="455" y="1"  width="72" height="385" frameX="-21" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0009" x="529" y="1"  width="76" height="387" frameX="-17" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0002" x="607" y="1"  width="71" height="388" frameX="-21" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0003" x="680" y="1"  width="72" height="390" frameX="-19" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0008" x="754" y="1"  width="76" height="390" frameX="-16" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0004" x="832" y="1"  width="73" height="392" frameX="-18" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0007" x="907" y="1"  width="76" height="392" frameX="-15" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0005" x="985" y="1"  width="74" height="393" frameX="-17" frameY="-0" frameWidth="136" frameHeight="400"/>
+  <SubTexture name="Ribbons0006" x="1061" y="1"  width="75" height="393" frameX="-16" frameY="-0" frameWidth="136" frameHeight="400"/>
+</TextureAtlas>

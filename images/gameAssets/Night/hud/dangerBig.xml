@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="dangerBig.png" width="124" height="57">
+  <SubTexture name="DangerA0001" x="1" y="1"  width="57" height="49" frameX="-0" frameY="-0" frameWidth="57" frameHeight="49"/>
+  <SubTexture name="DangerA0002" x="0" y="0"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="57" frameHeight="49"/>
+  <SubTexture name="DangerB0001" x="60" y="1"  width="63" height="55" frameX="-0" frameY="-0" frameWidth="63" frameHeight="55"/>
+  <SubTexture name="DangerB0002" x="0" y="0"  width="1" height="1" frameX="-0" frameY="-0" frameWidth="63" frameHeight="55"/>
+</TextureAtlas>

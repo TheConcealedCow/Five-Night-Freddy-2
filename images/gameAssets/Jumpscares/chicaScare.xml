@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="chicaScare.png" width="3634" height="2310">
+  <SubTexture name="Scare0001" x="1" y="1"  width="574" height="166" frameX="-192" frameY="-602" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0002" x="577" y="1"  width="603" height="185" frameX="-176" frameY="-583" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0003" x="1182" y="1"  width="673" height="270" frameX="-135" frameY="-498" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0004" x="1857" y="1"  width="806" height="610" frameX="-119" frameY="-158" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0005" x="2665" y="1"  width="968" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0006" x="1" y="188"  width="940" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0009" x="943" y="273"  width="858" height="768" frameX="-112" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0010" x="1803" y="613"  width="852" height="768" frameX="-120" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0007" x="2657" y="771"  width="945" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0011" x="1" y="958"  width="858" height="768" frameX="-112" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0008" x="861" y="1383"  width="955" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0012" x="1818" y="1541"  width="955" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="maskAnim.png" width="3078" height="1910">
+  <SubTexture name="Mask0001" x="1" y="1"  width="708" height="56" frameX="-166" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0002" x="711" y="1"  width="1024" height="209" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0003" x="1737" y="1"  width="1024" height="374" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0004" x="1" y="212"  width="1024" height="526" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0005" x="1027" y="377"  width="1024" height="654" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0006" x="2053" y="377"  width="1024" height="762" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0007" x="1" y="740"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0008" x="1027" y="1033"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Mask0009" x="2053" y="1141"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

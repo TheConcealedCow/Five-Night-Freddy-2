@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="newBonScare.png" width="3135" height="2863">
+  <SubTexture name="Scare0005" x="1" y="1" width="768" height="460" rotated="true"  frameX="-265" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0003" x="771" y="1" width="498" height="496" rotated="true"  frameX="-256" frameY="-270" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0002" x="1271" y="1" width="568" height="518" rotated="true"  frameX="-243" frameY="-200" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0001" x="1841" y="1" width="610" height="539" rotated="true"  frameX="-233" frameY="-158" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0004" x="2453" y="1" width="681" height="598" rotated="true"  frameX="-196" frameY="-87" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0006" x="1" y="463" width="768" height="582" rotated="true"  frameX="-206" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0008" x="771" y="521"  width="1024" height="637" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0007" x="1797" y="601"  width="943" height="721" frameX="-39" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0009" x="1" y="1160"  width="1024" height="724" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0010" x="1027" y="1324"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0011" x="2053" y="1324"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0012" x="1" y="1886"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="Scare0013" x="1027" y="2094"  width="1024" height="768" frameX="-0" frameY="-0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

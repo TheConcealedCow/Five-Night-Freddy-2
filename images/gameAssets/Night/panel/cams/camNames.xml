@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="camNames.png" width="456" height="144">
+  <SubTexture name="Cam0001" x="1" y="1"  width="223" height="22" frameX="-0" frameY="-0" frameWidth="223" frameHeight="22"/>
+  <SubTexture name="Cam0002" x="226" y="1"  width="226" height="22" frameX="-0" frameY="-0" frameWidth="226" frameHeight="22"/>
+  <SubTexture name="Cam0003" x="1" y="25"  width="226" height="22" frameX="-0" frameY="-0" frameWidth="226" frameHeight="22"/>
+  <SubTexture name="Cam0004" x="229" y="25"  width="226" height="22" frameX="-0" frameY="-0" frameWidth="226" frameHeight="22"/>
+  <SubTexture name="Cam0005" x="1" y="49"  width="245" height="22" frameX="-0" frameY="-0" frameWidth="245" frameHeight="22"/>
+  <SubTexture name="Cam0007" x="248" y="49"  width="166" height="22" frameX="-0" frameY="-0" frameWidth="166" frameHeight="22"/>
+  <SubTexture name="Cam0006" x="1" y="73"  width="264" height="22" frameX="-0" frameY="-0" frameWidth="264" frameHeight="22"/>
+  <SubTexture name="Cam0009" x="267" y="73"  width="188" height="22" frameX="-0" frameY="-0" frameWidth="188" frameHeight="22"/>
+  <SubTexture name="Cam0008" x="1" y="97"  width="245" height="22" frameX="-0" frameY="-0" frameWidth="245" frameHeight="22"/>
+  <SubTexture name="Cam0010" x="248" y="97"  width="169" height="22" frameX="-0" frameY="-0" frameWidth="169" frameHeight="22"/>
+  <SubTexture name="Cam0011" x="1" y="121"  width="226" height="22" frameX="-0" frameY="-0" frameWidth="226" frameHeight="22"/>
+  <SubTexture name="Cam0012" x="229" y="121"  width="188" height="22" frameX="-0" frameY="-0" frameWidth="188" frameHeight="22"/>
+</TextureAtlas>

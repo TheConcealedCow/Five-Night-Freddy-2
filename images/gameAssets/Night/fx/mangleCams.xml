@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="mangleCams.png" width="1509" height="725">
+  <SubTexture name="Mangle0004" x="1" y="1"  width="750" height="313" frameX="-671" frameY="-455" frameWidth="1600" frameHeight="768"/>
+  <SubTexture name="Mangle0003" x="753" y="1" width="591" height="332" rotated="true"  frameX="-0" frameY="-177" frameWidth="1600" frameHeight="768"/>
+  <SubTexture name="Mangle0002" x="1" y="316"  width="606" height="398" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="768"/>
+  <SubTexture name="Mangle0001" x="609" y="335"  width="899" height="389" frameX="-637" frameY="-0" frameWidth="1600" frameHeight="768"/>
+</TextureAtlas>

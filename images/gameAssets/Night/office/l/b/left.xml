@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="left.png" width="120" height="90">
+  <SubTexture name="Light0001" x="1" y="1"  width="58" height="88" frameX="-14" frameY="-26" frameWidth="92" frameHeight="141"/>
+  <SubTexture name="Static0001" x="61" y="1"  width="58" height="88" frameX="-14" frameY="-26" frameWidth="92" frameHeight="141"/>
+</TextureAtlas>

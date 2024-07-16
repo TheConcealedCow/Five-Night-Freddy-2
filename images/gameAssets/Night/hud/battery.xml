@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="battery.png" width="227" height="91">
+  <SubTexture name="Battery0001" x="1" y="1"  width="89" height="43" frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+  <SubTexture name="Battery0002" x="92" y="1"  width="89" height="43" frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+  <SubTexture name="Battery0003" x="1" y="46"  width="89" height="43" frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+  <SubTexture name="Battery0004" x="92" y="46"  width="89" height="43" frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+  <SubTexture name="Battery0005" x="183" y="1" width="43" height="89" rotated="true"  frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+  <SubTexture name="Battery0006" x="183" y="1" width="43" height="89" rotated="true"  frameX="-10" frameY="-3" frameWidth="100" frameHeight="50"/>
+</TextureAtlas>
